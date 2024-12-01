@@ -1,3 +1,5 @@
+
+# Slug Generator
 import { generate_slugs } from "slug_generator_simple"
 
 generate_slugs({text:"simple text"}); //simple-text
