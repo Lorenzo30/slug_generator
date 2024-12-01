@@ -1,6 +1,6 @@
 {
   "name": "slug_generator_simple",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Generate slugs uri by text",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
