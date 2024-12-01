@@ -1,3 +1,4 @@
+[![npm-version]][npm] [![coveralls-status]][coveralls]
 
 # Slug Generator
 
