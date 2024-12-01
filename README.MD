@@ -11,6 +11,7 @@ generate_slugs({text:"simple text"}); //simple-text
 // if you prefer something other than '-' as separator
     generate_slugs({text:"simple text","_"}); //simple_text
 
+```
 
 ## Contribute
 
