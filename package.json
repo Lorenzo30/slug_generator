@@ -13,7 +13,11 @@
     "slug",
     "url"
   ],
-  "author": "Lorenzo",
+  "author": "Lorenzo correa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lorenzo30/slug_generator"
+  },
   "license": "MIT",
   "dependencies": {
     "typescript": "^5.7.2"
