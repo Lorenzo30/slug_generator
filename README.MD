@@ -1,6 +1,7 @@
-[![npm-version]][npm] [![coveralls-status]][coveralls]
 
 # Slug Generator
+
+[![npm-version]][npm] [![coveralls-status]][coveralls]
 
 ```js
 import { generate_slugs } from "slug_generator_simple"
